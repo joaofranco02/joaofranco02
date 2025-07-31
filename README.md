@@ -29,9 +29,13 @@
 ---
 
 ## 📬 Contato
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‑0077B5?style=for‑the‑badge&logo=linkedin)](https://linkedin.com/in/joaofranco)  
-🔗 Portfólio Pessoal ou 3D: [meuportifolio.com](http://meuportifolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-franco-ab9179258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Discord](https://img.shields.io/discord/SEU_SERVER_ID?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_INVITE)
+
 
 ---
 
