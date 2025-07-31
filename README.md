@@ -24,7 +24,7 @@
 |--------|-------------|------|
 | 🚧 *Nome do projeto 1* | React / Next.js / TS | [Repo](https://github.com/joaofranco/projeto1) |
 | 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco/projeto-unity) |
-| 🌐 *SPA com Vue.js ou Angular* | Vue.js/Angular | [Repo](https://github.com/joaofranco/projeto-spa) |
+| 🌐 *Site studio soares deize | [Repo](https://github.com/joaofranco/projeto-spa) |
 
 ---
 
