@@ -1,4 +1,4 @@
-# 👋 Fala, eu sou o João Franco
+# 👋 Fala, eu sou o João 
 
 🎯 Full Stack Developer & Game Dev (2D e 3D) apaixonado por inovação, arquitetura e criatividade
 
