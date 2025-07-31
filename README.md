@@ -6,7 +6,7 @@
 
 ## 🧪 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,angular,vue,c#,unity)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,angular,vue,c,unity)
 
 ---
 
