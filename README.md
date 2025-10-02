@@ -12,9 +12,9 @@
 
 ## 📊 GitHub Stats
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofranco&show_icons=true&theme=radical&count_private=true)
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofranco02&show_icons=true&theme=radical&count_private=true)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranco&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranco02&layout=compact&theme=radical)
 
 ---
 
@@ -22,9 +22,9 @@
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🚧 *Nome do projeto 1* | React / Next.js / TS | [Repo](https://github.com/joaofranco/projeto1) |
-| 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco/projeto-unity) |
-| 🌐 *Site studio soares deize | [Repo](https://github.com/joaofranco/projeto-spa) |
+| 🚧 *Nome do projeto 1* | React / Next.js / TS | [Repo](https://github.com/joaofranco02/projeto1) |
+| 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
+| 🌐 *Site studio soares deize | [Repo](https://github.com/joaofranco02/projeto-spa) |
 
 ---
 
