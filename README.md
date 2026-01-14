@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o João 
 
-🎯 Full Stack Developer & Game Dev (2D e 3D) apaixonado por inovação, arquitetura e criatividade
+🎯 Full Stack Developer apaixonado por inovação, arquitetura e criatividade
 
 ---
 
