@@ -24,7 +24,7 @@
 |--------|-------------|------|
 | 🚧 *Sistemas de Cadastro de docentes|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
 | 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
-| 🌐 *Site studio soares deize | [Repo](https://github.com/joaofranco02/projeto-spa) |
+| 🌐 *Site studio soares deize |html,css,js| [Repo](https://github.com/joaofranco02/projeto-spa) |
 
 
 ---
