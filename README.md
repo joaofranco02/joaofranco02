@@ -22,7 +22,7 @@
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🚧 *Sistemas de Cadastro de docentes [Repo](https://github.com/joaofranco02/projeto1) |
+| 🚧 *Sistemas de Cadastro de docentes [Repo]https://github.com/tidgec/teacher-management-app |
 | 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
 | 🌐 *Site studio soares deize | [Repo](https://github.com/joaofranco02/projeto-spa) |
 
