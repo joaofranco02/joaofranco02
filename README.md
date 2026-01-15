@@ -22,8 +22,9 @@
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🚧 *Sistemas de Cadastro de docentes|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
+| 🚧 *Sistemas de Cadastro de docentes PMPA|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
 | 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
+| 🚧 *Sistemas de Cadastro de docentes PMPA|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
 | 🌐 *Site studio soares deize |html,css,js| [Repo](https://github.com/joaofranco02/projeto-spa) |
 
 
