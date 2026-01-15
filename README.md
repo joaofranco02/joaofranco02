@@ -22,9 +22,9 @@
 
 | Projeto | Tecnologias | Link |
 |--------|-------------|------|
-| 🚧 *Sistemas de Cadastro de docentes PMPA|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
+| 🚧 *Sistemas de Cadastro de docentes PMPA*|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
 | 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
-| 🚧 *Sistemas de notas Boletim Academico PMPA|node.js,Fatisfy,swagger,typescript,Postgreesql,PrismaORM,Redis,Bullmq| [Repo](https://github.com/tidgec/boletim-api-2.0) |
+| 🚧 *Sistemas de notas Boletim Academico PMPA|node.js,Fatisfy,swagger,typescript,Postgreesql,PrismaORM,Redis,Bullmq*| [Repo](https://github.com/tidgec/boletim-api-2.0) |
 | 🌐 *Site studio soares deize |html,css,js| [Repo](https://github.com/joaofranco02/projeto-spa) |
 
 
