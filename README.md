@@ -1,44 +1,97 @@
-# 👋 Oi, eu sou o João 
+<h1 align="center">Olá, eu sou o João Davi 👋</h1>
+<h3 align="center">Full Stack Developer & Analista de Sistemas</h3>
 
-🎯 Full Stack Developer apaixonado por inovação e criatividade
+<p align="center">
+  📍 Belém, PA — Brasil &nbsp;|&nbsp; 🎓 Mestrando em Ciência da Computação (UFPA) &nbsp;|&nbsp; ☁️ AWS Certified Cloud Practitioner
+</p>
+
+<p align="center">
+  <a href="https://francodev.online"><img src="https://img.shields.io/badge/Portfólio-francodev.online-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-franco-ab9179258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:seuemail@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 💡 Sobre mim
+
+Atuo com desenvolvimento full stack na **Polícia Militar do Pará (PMPA)**, construindo sistemas internos que hoje estão em produção atendendo o efetivo da corporação — do frontend ao backend, passando por infraestrutura e observabilidade. Também curso **Mestrado em Ciência da Computação pela UFPA** e sou certificado **AWS Cloud Practitioner**.
+
+Gosto de resolver problemas reais com código bem estruturado e organizado, e mantenho o stack em expansão constante — atualmente aprofundando **Java** e fechando a lacuna em **Angular**.
 
 ---
 
 ## 🧪 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,angular,vue,c,unity)
+**Frontend**
 
----
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
-## 📊 GitHub Stats
+**Backend**
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofranco02&show_icons=true&theme=radical&count_private=true)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,py,django,fastapi)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranco02&layout=compact&theme=radical)
+**Banco de Dados & Mensageria**
+
+![Data](https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+
+**DevOps & Observabilidade**
+
+![DevOps](https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,grafana,prometheus)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge)
+
+**Cloud, Linguagens & Outros**
+
+![Others](https://skillicons.dev/icons?i=aws,git,jest,cs,unity,php)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Tecnologias | Link |
-|--------|-------------|------|
-| 🚧 *Sistemas de Cadastro de docentes PMPA*|react,vite,typescript,shadcnUI,| [Repo](https://github.com/tidgec/teacher-management-app) |
-| 🎮 *Game Unity 2D/3D* | C#, Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
-| 🚧 *Sistemas de notas Boletim Academico PMPA|node.js,Fatisfy,swagger,typescript,Postgreesql,PrismaORM,Redis,Bullmq*| [Repo](https://github.com/tidgec/boletim-api-2.0) |
-| 🌐 *Site studio soares deize |html,css,js| [Repo](https://github.com/joaofranco02/projeto-spa) |
+### 🏛️ Sistemas em Produção — Polícia Militar do Pará (PMPA)
 
+> Código-fonte institucional (privado). Os sistemas abaixo estão em produção, atendendo o efetivo da corporação.
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **[Sistema de Boletim Acadêmico](https://boletimacademico.pm.pa.gov.br)** | Gestão de notas e boletins acadêmicos militares | React · Next.js · TypeScript · TailwindCSS · shadcn/ui · Zustand · Zod · React Hook Form · Fastify · Prisma · PostgreSQL · Redis · BullMQ |
+| **[Sistema de Gestão de Docentes (SGD)](https://sgd.pm.pa.gov.br)** | Cadastro e gestão de docentes da corporação | React · Vite · TypeScript · shadcn/ui |
+| **Gerador de Contratos PMPA** | Automação da geração de contratos administrativos | Django · FastAPI · Python · PostgreSQL · Redis · Celery · Docker |
+| **[Plataforma EAD PMPA](https://ead.pm.pa.gov.br)** | Ambiente virtual de ensino para capacitação do efetivo | PHP · Moodle · MariaDB · Apache · Nginx · Linux |
+| **PICC** | Sistema de classificação por níveis de formação militar | PostgreSQL |
+
+### 💼 Projetos Pessoais & Freelance
+
+| Projeto | O que faz | Stack | Link |
+|---|---|---|---|
+| 🎮 Jogo 2D/3D em Unity | Projeto pessoal de desenvolvimento de jogos | C# · Unity | [Repo](https://github.com/joaofranco02/projeto-unity) |
+| 🌐 Site — Studio Soares Deize | Site institucional para cliente freelance | HTML · CSS · JavaScript | [Repo](https://github.com/joaofranco02/projeto-spa) |
 
 ---
 
-## 📬 Contato
+## 📊 GitHub Stats
 
+> A maior parte do meu código de produção está em repositórios privados/institucionais — as estatísticas abaixo refletem só a atividade pública.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-franco-ab9179258/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![Discord](https://img.shields.io/discord/SEU_SERVER_ID?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_INVITE)
-
+![Stats do João](https://github-readme-stats.vercel.app/api?username=joaofranco02&show_icons=true&theme=radical&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranco02&layout=compact&theme=radical)
 
 ---
 
-⭐ Obrigado por vir até aqui. Se curtir, me segue ou dá uma estrela nos projetos!
+## 🎓 Formação & Certificações
+
+- 🎓 Mestrado em Ciência da Computação — UFPA *(em andamento)*
+- ☁️ AWS Certified Cloud Practitioner
+
+---
+
+⭐ Obrigado por visitar! Se curtir algum projeto, deixa uma estrela ou me chama no LinkedIn.
