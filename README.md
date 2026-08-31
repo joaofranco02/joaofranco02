@@ -78,14 +78,13 @@ Gosto de resolver problemas reais com código bem estruturado e organizado, e ma
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Atividade
 
-> A maior parte do meu código de produção está em repositórios privados/institucionais — as estatísticas abaixo refletem só a atividade pública.
+> A maior parte do meu código de produção está em repositórios privados/institucionais — as estatísticas abaixo refletem só a atividade pública. Gerado por uma GitHub Action no próprio repositório (sem depender de serviço externo).
 
-![Stats do João](https://github-readme-stats.vercel.app/api?username=joaofranco02&show_icons=true&theme=radical&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranco02&layout=compact&theme=radical)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/metrics.svg" alt="Stats e atividade do João">
+</p>
 
 ## 🎓 Formação & Certificações
 
