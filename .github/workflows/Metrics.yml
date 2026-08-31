@@ -18,8 +18,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
+          template: classic
+          config_theme: dark
+          config_display: large
           base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 15
+          plugin_lines: yes
           config_timezone: America/Belem
