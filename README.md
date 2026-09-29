@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/Header.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" />
+  <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/Header.svg" alt="João Davi — Full Stack Developer · Analista de Sistemas" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://francodev.online"><img src="https://img.shields.io/badge/Portfólio-francodev.online-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-franco-ab9179258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing-dark.svg" />
+    <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing-light.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" width="100%" />
+  </picture>
 </p>
 
 ---
