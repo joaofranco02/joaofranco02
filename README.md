@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" />
+  <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/Header.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" />
 </p>
 
 <p align="center">
