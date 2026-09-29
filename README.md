@@ -14,7 +14,7 @@
 
 ```ts
 const joao = {
-  cargo: "Full Stack Developer @ Polícia Militar do Pará",
+  cargo: "Full Stack Developer",
   local: "Belém, PA 🇧🇷",
   emProducao: ["Boletim Acadêmico", "SGD", "Gerador de Contratos", "Plataforma EAD", "PICC"],
   formacao: "Mestrado em Ciência da Computação — UFPA (em andamento)",
