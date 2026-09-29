@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=João%20Davi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20Analista%20de%20Sistemas&descAlignY=56&descSize=18" alt="João Davi — Full Stack Developer" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/Header.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" />
 </p>
 
