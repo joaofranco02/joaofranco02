@@ -24,8 +24,6 @@ const joao = {
 } as const;
 ```
 
-Construo sistemas internos que estão **em produção atendendo o efetivo da PMPA** — do frontend ao backend, passando por filas, infraestrutura e observabilidade. Não é projeto de tutorial: é software com usuário de verdade, deploy de verdade e bug de verdade às 8h da manhã. 😅
-
 ---
 
 ## 🏗️ Por dentro de um sistema em produção
