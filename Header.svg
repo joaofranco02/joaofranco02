@@ -100,8 +100,8 @@
   </g>
 
   <!-- nome -->
-  <text class="glow" x="600" y="112" text-anchor="middle" filter="url(#glow)">João Davi</text>
-  <text class="name" x="600" y="112" text-anchor="middle" fill="url(#shine)">João Davi</text>
+  <text class="glow" x="600" y="112" text-anchor="middle" filter="url(#glow)">João Franco</text>
+  <text class="name" x="600" y="112" text-anchor="middle" fill="url(#shine)">João Franco</text>
 
   <line class="line" x1="530" y1="136" x2="670" y2="136"/>
 
