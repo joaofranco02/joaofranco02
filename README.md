@@ -67,7 +67,7 @@ flowchart LR
 
 ## 🚀 Projetos
 
-### 🏛️ Em produção — PMPA
+### 🏛️ Em produção
 <sub>Código institucional (privado). Links levam aos sistemas no ar.</sub>
 
 | | Projeto | O que resolve | Stack |
