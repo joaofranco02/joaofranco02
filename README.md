@@ -20,7 +20,7 @@ const joao = {
   emProducao: ["Boletim Acadêmico", "SGD", "Gerador de Contratos", "Plataforma EAD", "PICC"],
   formacao: "Mestrado em Ciência da Computação — UFPA (em andamento)",
   certificacoes: ["AWS Certified Cloud Practitioner"],
-  aprendendoAgora: ["Java", "Angular"],
+  aprendendoAgora: ["Java", "Angular", "Go"],
   filosofia: "Resolver problemas reais com código que o próximo dev consiga entender.",
 } as const;
 ```
