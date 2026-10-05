@@ -135,7 +135,6 @@ flowchart LR
 
 - ☕ Aprofundando **Java**
 - 🅰️ Fechando a lacuna em **Angular**
-- 🎓 Pesquisando no **Mestrado em Ciência da Computação (UFPA)**
 - 💬 Aberto a conversar sobre **backend, sistemas em produção e arquitetura**
 
 ---
