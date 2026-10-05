@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing-dark.svg" />
-    <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing-light.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · Mestrando em Ciência da Computação (UFPA) · AWS Certified Cloud Practitioner" width="100%" />
+    <img src="https://raw.githubusercontent.com/joaofranco02/joaofranco02/main/typing-light.svg" alt="Sistemas em produção na PMPA · Next.js + Fastify + PostgreSQL + Redis · AWS Certified Cloud Practitioner" width="100%" />
   </picture>
 </p>
 
@@ -18,7 +18,7 @@ const joao = {
   cargo: "Full Stack Developer",
   local: "Belém, PA 🇧🇷",
   emProducao: ["Boletim Acadêmico", "SGD", "Gerador de Contratos", "Plataforma EAD", "PICC"],
-  formacao: "Mestrado em Ciência da Computação — UFPA (em andamento)",
+  formacao: "Analise e Desenvolvimento de Sistemas",
   certificacoes: ["AWS Certified Cloud Practitioner"],
   aprendendoAgora: ["Java", "Angular", "Go"],
   filosofia: "Resolver problemas reais com código que o próximo dev consiga entender.",
