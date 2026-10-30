@@ -25,45 +25,6 @@ const joao = {
 } as const;
 ```
 
----
-
-<details>
-<summary>🏗️ Por dentro de um sistema em produção</summary>
-
-O [Sistema de Gestão de Docentes (SGD)](https://sgd.pm.pa.gov.br) em uma visão simplificada:
-
-```mermaid
-flowchart LR
-    U["👥 Usuários<br/>dev · admin<br/>supervisor · docente"]
-    GH["⚙️ GitHub Actions<br/>CI/CD"]
-
-    subgraph APP["Next.js 16 · App Router"]
-        FE["🖥️ Páginas<br/>React 19 · Tailwind 4<br/>PDF · Excel · QR<br/>gerados no navegador"]
-        API["🔌 Route Handlers<br/>Zod · 33 endpoints"]
-        AUTH["🔐 NextAuth<br/>JWT · CPF + Argon2 "]
-        FE -->|fetch| API
-        FE -.->|sessão| AUTH
-    end
-
-    U --> FE
-    GH -.->|build & deploy| APP
-    API -->|Prisma| P[("🐘 PostgreSQL 16")]
-    API -->|enfileira jobs| Q["📬 BullMQ"]
-    Q --> R[("⚡ Redis")]
-
-    classDef node fill:#203a43,stroke:#4a8a9c,color:#ffffff
-    classDef ext fill:#0f2027,stroke:#2c5364,color:#d0e4ea
-    class FE,API,AUTH,P,Q,R node
-    class U,GH ext
-    style APP fill:#0f2027,stroke:#2c5364,color:#ffffff
-    linkStyle default stroke:#5fa8bd,stroke-width:1.5px
-```
-
-> Deploy automatizado via GitHub Actions. Dentro da aplicação, o Next.js concentra páginas e API no mesmo processo: os Route Handlers validam entrada com Zod, falam com o Postgres via Prisma e despacham processamento assíncrono para filas BullMQ sobre Redis. Sessão via JWT (NextAuth, login por CPF + bcrypt). PDFs, planilhas e QR codes de certidões são gerados no navegador.
-
-</details>
-
----
 
 ## 🚀 Projetos
 
